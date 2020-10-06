@@ -17,3 +17,7 @@ Feature: Book-it API tests
     Then status 200
     * print karate.pretty(response)
 
+changed made by @cacags
+******************************
+
+I dont know what it means actually
